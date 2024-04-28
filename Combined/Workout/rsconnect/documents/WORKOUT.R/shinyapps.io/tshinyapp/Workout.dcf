@@ -1,0 +1,12 @@
+name: Workout
+title: Workout
+username: tshinyapp
+account: tshinyapp
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11883989
+bundleId: 8552010
+url: https://tshinyapp.shinyapps.io/Workout/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

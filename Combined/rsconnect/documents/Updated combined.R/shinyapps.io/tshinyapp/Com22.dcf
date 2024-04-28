@@ -1,0 +1,13 @@
+name: Com22
+title: Com22
+username: tshinyapp
+account: tshinyapp
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11883945
+bundleId: 8551831
+url: https://tshinyapp.shinyapps.io/Com22/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Combined App.R

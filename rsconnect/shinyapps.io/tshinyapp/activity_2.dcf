@@ -1,0 +1,10 @@
+name: activity_2
+title:
+username: tshinyapp
+account: tshinyapp
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11884410
+bundleId: 8552025
+url: https://tshinyapp.shinyapps.io/activity_2/
+version: 1
